@@ -1,0 +1,176 @@
+languages: sv, en
+category: $course$/Geografi/Grundkurs
+
+1. [TF] Jordens rotation
+   SV: Jordens rotation orsakar dag och natt.
+   EN: The Earth's rotation causes day and night.
+   Svar:
+     SV: Sant
+     EN: True
+   Feedback:
+     SV: Bra! / Jordens rotation tar 24 timmar.
+     EN: Great! / The Earth's rotation takes 24 hours.
+
+2. [TF] Månen som planet
+   SV: Månen är en planet.
+   EN: The moon is a planet.
+   Svar:
+     SV: Falskt
+     EN: False
+   Feedback:
+     SV: Månen är en naturlig satellit, inte en planet. / Rätt!
+     EN: The moon is a natural satellite, not a planet. / Correct!
+
+3. [MC] Den röda planeten
+   SV: Vilken planet kallas för "den röda planeten"?
+   EN: Which planet is called "the red planet"?
+   Helt rätt:
+     SV: Perfekt!
+     EN: Perfect!
+   Helt fel:
+     SV: Försök igen — läs kapitel 2.
+     EN: Try again — read chapter 2.
+   a)
+     SV: Venus
+     EN: Venus
+     Feedback:
+       SV: Venus är den hetaste planeten, men inte röd.
+       EN: Venus is the hottest planet, but not red.
+   b)
+     SV: Mars *
+     EN: Mars *
+     Feedback:
+       SV: Rätt! Mars kallas för den röda planeten på grund av järnoxid i dess yta.
+       EN: Correct! Mars is called the red planet due to iron oxide on its surface.
+   c)
+     SV: Jupiter
+     EN: Jupiter
+     Feedback:
+       SV: Jupiter är en gasjätte med den stora röda fläcken — men det är en storm, inte planeten.
+       EN: Jupiter is a gas giant with the Great Red Spot — but that's a storm, not the planet.
+   d)
+     SV: Saturnus
+     EN: Saturnus
+     Feedback:
+       SV: Saturnus känns igen på sina ringar, inte på röd färg.
+       EN: Saturn is known for its rings, not a red color.
+
+4. [MC] Grundämnen (flera rätt)
+   SV: Vilka av följande är grundämnen? (flera rätt)
+   EN: Which of the following are chemical elements? (multiple correct)
+   Allmänt:
+     SV: Den här frågan handlar om grundläggande kemi.
+     EN: This question is about basic chemistry.
+   Helt rätt:
+     SV: Perfekt — du kan dina grundämnen!
+     EN: Perfect — you know your elements!
+   Delvis rätt:
+     SV: Du hade några rätt. Tänk på vad som finns i periodiska systemet.
+     EN: You got some right. Think about what's in the periodic table.
+   Helt fel:
+     SV: Läs kapitel 5 om grundämnen och kemiska föreningar.
+     EN: Read chapter 5 about elements and chemical compounds.
+   a)
+     SV: Guld * (100)
+     EN: Gold * (100)
+     Feedback:
+       SV: Rätt! Guld (Au) är ett grundämne.
+       EN: Correct! Gold (Au) is an element.
+   b)
+     SV: Vatten (-100)
+     EN: Water (-100)
+     Feedback:
+       SV: Vatten är H₂O, en kemisk förening, inte ett grundämne.
+       EN: Water is H₂O, a chemical compound, not an element.
+   c)
+     SV: Syre * (100)
+     EN: Oxygen * (100)
+     Feedback:
+       SV: Rätt! Syre (O) är ett grundämne.
+       EN: Correct! Oxygen (O) is an element.
+   d)
+     SV: Luft (-100)
+     EN: Air (-100)
+     Feedback:
+       SV: Luft är en blandning av gaser, inte ett grundämne.
+       EN: Air is a mixture of gases, not an element.
+   e)
+     SV: Järn * (100)
+     EN: Iron * (100)
+     Feedback:
+       SV: Rätt! Järn (Fe) är ett grundämne.
+       EN: Correct! Iron (Fe) is an element.
+
+5. [SA] Romeo och Julia
+   SV: Vem skrev "Romeo och Julia"?
+   EN: Who wrote "Romeo and Juliet"?
+   Svar:
+     SV: William Shakespeare
+     EN: William Shakespeare
+   Svar:
+     SV: Shakespeare
+     EN: Shakespeare
+
+6. [SA] Världens största hav
+   SV: Vilket är världens största hav?
+   EN: What is the world's largest ocean?
+   Svar:
+     SV: Stilla havet
+     EN: Pacific Ocean
+   Svar:
+     SV: Pacifiken
+     EN: The Pacific
+   Feedback:
+     SV: Stilla havet täcker cirka 30% av jordens yta.
+     EN: The Pacific Ocean covers about 30% of Earth's surface.
+
+7. [NUM] Värdet av pi
+   SV: Vad är pi (avrundat till 2 decimaler)?
+   EN: What is pi (rounded to 2 decimal places)?
+   Svar:
+     SV: 3.14:0.01
+     EN: 3.14:0.01
+
+8. [NUM] Mil i kilometer
+   SV: Hur många kilometer är en mil?
+   EN: How many kilometers are in a Swedish mil?
+   Svar:
+     SV: 10:0.5 km (100)
+     EN: 10:0.5 km (100)
+   Svar:
+     SV: 10000:500 m (100)
+     EN: 10000:500 m (100)
+
+9. [MATCH] Nordiska huvudstäder
+   SV: Para ihop länderna med sina huvudstäder.
+   EN: Match the countries with their capitals.
+   Sverige -> Stockholm
+   Norge -> Oslo
+   Danmark -> Köpenhamn
+   Finland -> Helsingfors
+   -> Reykjavik
+   Allmänt:
+     SV: Detta testar dina kunskaper om nordisk geografi.
+     EN: This tests your knowledge of Nordic geography.
+
+10. [MATCH] Vetenskapsmän och upptäckter
+    SV: Para ihop vetenskapsmän med deras upptäckter.
+    EN: Match the scientists with their discoveries.
+    Albert Einstein -> Relativitetsteori
+    Isaac Newton -> Gravitation
+    Marie Curie -> Radioaktivitet
+    -> Penicillin
+    Allmänt:
+      SV: Några av vetenskapens viktigaste genombrott.
+      EN: Some of science's most important breakthroughs.
+
+11. [CLOZE] Jorden i rymden
+    SV: Jorden är en [planet|stjärna|måne] som kretsar kring [solen|månen].
+    EN: Earth is a [planet|star|moon] that orbits [the sun|the moon].
+
+12. [CLOZE] Vattnets beståndsdelar
+    SV: Vatten består av [väte|syre|kol] och [syre|kväve|kol].
+    EN: Water consists of [hydrogen|oxygen|carbon] and [oxygen|nitrogen|carbon].
+    Allmänt:
+      SV: Den kemiska formeln för vatten är H₂O.
+      EN: The chemical formula for water is H₂O.
